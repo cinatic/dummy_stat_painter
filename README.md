@@ -1,0 +1,1 @@
+# dummy_stat_painter
