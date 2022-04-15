@@ -1,1 +1,1 @@
-pingpongpongpongpong
+ping
